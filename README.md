@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PACE — AI Rebrand (Next.js + Tailwind + Firebase)
 
 An educational rebrand of a famous sports brand's website. All assets are original, AI‑generated (procedural) — no trademarks used.
@@ -63,3 +64,6 @@ Prefer Strapi? Create types **Product** (name, price, image, badge, desc) and **
 
 - This is an original educational redesign ("rebranding of Nike"). No official affiliation.
 - Replace placeholder images in `/public/images` with your own or a generator like Adobe Firefly/Durable.
+=======
+# FUTURE_FS_03
+>>>>>>> 52bcbdeb8a2b01060abfed49c96be96ae95e2c00
