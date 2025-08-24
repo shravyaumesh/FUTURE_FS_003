@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CSS variables driven by AI-generated palette */
+:root {
+  --brand-50: 97% 0.02 250;
+  --brand-100: 94% 0.04 250;
+  --brand-200: 88% 0.08 250;
+  --brand-300: 80% 0.12 250;
+  --brand-400: 72% 0.15 250;
+  --brand-500: 65% 0.17 250;
+  --brand-600: 58% 0.17 250;
+  --brand-700: 50% 0.16 250;
+  --brand-800: 42% 0.14 250;
+  --brand-900: 35% 0.12 250;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  @apply bg-white text-gray-900 antialiased;
+}
+
+/* Utility sugar */
+.container-p {
+  @apply container mx-auto px-4 sm:px-6 lg:px-8;
+}
+.card {
+  @apply rounded-2xl shadow-sm border border-gray-100 bg-white;
+}
